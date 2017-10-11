@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="zxksxt"
+  id="myeclipse.1481179918911"
+  context-root="/springdemo1.1"
+  j2ee-spec="6.0"
+  archive="zxksxt.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
